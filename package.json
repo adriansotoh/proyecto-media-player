@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de Javascript",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Carlo Adrián Soto Hidalgo <adriansotohidalgo16@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
